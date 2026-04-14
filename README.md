@@ -82,16 +82,3 @@ Python Developer (DIO/Suzano) · FullStack Developer (DIO/Akad) · Power BI · S
 
 </details>
 
----
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulogcamara&bg_color=00000000&color=ff6b2b&line=ff6b2b&point=ebe7e0&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulogcamara/paulogcamara/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulogcamara/paulogcamara/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/paulogcamara/paulogcamara/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
