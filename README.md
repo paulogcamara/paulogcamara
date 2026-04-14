@@ -26,7 +26,7 @@
 ```javascript
 class Developer {
     constructor() {
-        this.name     = "Paulo Gabriel Camara";
+        this.name     = "Paulo Gabriel Câmara";
         this.role     = "Full Stack Developer";
         this.company  = "Quality Engineering";
         this.location = "Montes Claros, MG";
@@ -35,28 +35,28 @@ class Developer {
 
     get background() {
         return [
-            "Responsavel Tecnico de TI         -> Infraestrutura & LGPD",
-            "Analista de Desenvolvimento Pleno  -> Full Stack & Lideranca",
+            "Responsável Técnico de TI         -> Infraestrutura & LGPD",
+            "Analista de Desenvolvimento Pleno  -> Full Stack & Liderança",
             "Data Analytics (Novo Nordisk)      -> Power BI & Python",
-            "MES / PAS-X Developer             -> Automacao Industrial",
-            "Full Stack Developer              -> Solucoes Escalaveis"
+            "MES / PAS-X Developer             -> Automação Industrial",
+            "Full Stack Developer              -> Soluções Escaláveis"
         ];
     }
 
     get creativeCode() {
         return {
             tools: ["Three.js", "WebGL", "GSAP", "Web Audio API", "GLSL"],
-            highlight: "violao-3d — guitarra 3D procedural com sintese de audio"
+            highlight: "violao-3d — guitarra 3D procedural com síntese de áudio"
         };
     }
 
-    get motto() { return "A programacao e infinita!"; }
+    get motto() { return "A programação é infinita!"; }
 }
 ```
 
-> Desenvolvedor que transita entre a **automacao industrial** e o **codigo criativo**.
-> Na Quality Engineering, projeto solucoes para digitalizacao de processos industriais e corporativos.
-> Acredito que as melhores solucoes nascem quando **rigor tecnico** encontra **design** —
+> Desenvolvedor que transita entre a **automação industrial** e o **código criativo**.
+> Na Quality Engineering, projeto soluções para digitalização de processos industriais e corporativos.
+> Acredito que as melhores soluções nascem quando **rigor técnico** encontra **design** —
 > e quando nunca se para de aprender.
 
 <br>
@@ -112,7 +112,7 @@ class Developer {
 
 ---
 
-## &nbsp; Trofeus
+## &nbsp; Troféus
 
 <div align="center">
 
@@ -128,7 +128,7 @@ class Developer {
 
 <div align="center">
 
-### &nbsp; [Violao 3D](https://github.com/paulogcamara/violao-3d) — Experiencia Web Imersiva
+### &nbsp; [Violão 3D](https://github.com/paulogcamara/violao-3d) — Experiência Web Imersiva
 
 <a href="https://paulogcamara.github.io/violao-3d/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulogcamara&repo=violao-3d&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="55%" />
@@ -147,17 +147,17 @@ class Developer {
 <tr>
 <td width="55%">
 
-**Destaques tecnicos:**
+**Destaques técnicos:**
 
 - Modelo 3D **100% procedural** — zero modelos externos importados
 - Texturas de madeira procedurais via Canvas API (Spruce, Rosewood, Ebony, Cedar)
 - Materiais fisicamente corretos com `MeshPhysicalMaterial` e clearcoat
-- Sintese de audio **Karplus-Strong** via Web Audio API — zero arquivos de audio
-- Vibracao de cordas por vertex displacement em tempo real
-- Camera cinematografica com **26 keyframes** sincronizados ao scroll
-- **12 presets** de iluminacao dinamica
-- Fretboard interativo: **78 posicoes clicaveis** (6 cordas x 13 trastes)
-- 8 acordes pre-definidos tocaveis
+- Síntese de áudio **Karplus-Strong** via Web Audio API — zero arquivos de áudio
+- Vibração de cordas por vertex displacement em tempo real
+- Câmera cinematográfica com **26 keyframes** sincronizados ao scroll
+- **12 presets** de iluminação dinâmica
+- Fretboard interativo: **78 posições clicáveis** (6 cordas x 13 trastes)
+- 8 acordes pré-definidos tocáveis
 - Target **60fps** | Bundle ~460kb gzipped
 
 </td>
@@ -179,8 +179,8 @@ class Developer {
 
 <br>
 
-> *"Tudo e gerado por codigo —*
-> *da geometria a musica."*
+> *"Tudo é gerado por código —*
+> *da geometria à música."*
 
 </td>
 </tr>
@@ -190,7 +190,7 @@ class Developer {
 
 ---
 
-## &nbsp; Grafico de Atividade
+## &nbsp; Gráfico de Atividade
 
 <div align="center">
 
@@ -222,26 +222,26 @@ class Developer {
 <summary><b>&nbsp; Jornada Profissional</b></summary>
 <br>
 
-| Periodo | Cargo | Empresa | Foco |
+| Período | Cargo | Empresa | Foco |
 |:-------:|-------|---------|------|
-| **2025 — atual** | Analista de Desenvolvimento Full Stack | **Quality Engineering** | React, TypeScript, Node.js, AWS, Automacao Industrial |
+| **2025 — atual** | Analista de Desenvolvimento Full Stack | **Quality Engineering** | React, TypeScript, Node.js, AWS, Automação Industrial |
 | **2024 — 2025** | Analista MES Jr. / PAS-X Developer | **Novo Nordisk** | Manufacturing Execution Systems, PAS-X, Conformidade |
-| **2023 — 2024** | Estagiario — Data Analytics | **Novo Nordisk** | Power BI, Python, Power Automate, Dashboards |
-| **2022 — 2023** | Analista de Desenvolvimento Pleno | **VGX Contact Center** | Full Stack, Lideranca Tecnica, Banco de Dados |
-| **2022** | Responsavel Tecnico de TI | **Cartorio 1 Oficio** | Python, Infraestrutura, LGPD |
+| **2023 — 2024** | Estagiário — Data Analytics | **Novo Nordisk** | Power BI, Python, Power Automate, Dashboards |
+| **2022 — 2023** | Analista de Desenvolvimento Pleno | **VGX Contact Center** | Full Stack, Liderança Técnica, Banco de Dados |
+| **2022** | Responsável Técnico de TI | **Cartório 1º Ofício** | Python, Infraestrutura, LGPD |
 
 </details>
 
 <details>
-<summary><b>&nbsp; Formacao & Certificacoes</b></summary>
+<summary><b>&nbsp; Formação & Certificações</b></summary>
 <br>
 
-**Graduacao:**
+**Graduação:**
 
 ![Estacio](https://img.shields.io/badge/Est%C3%A1cio-Bacharelado_em_TI_(2023--2026)-a78bfa?style=flat-square&logo=bookstack&logoColor=white)
 ![Ampli](https://img.shields.io/badge/Ampli-CST_em_TI_(2023--2025)-a78bfa?style=flat-square&logo=bookstack&logoColor=white)
 
-**Certificacoes:**
+**Certificações:**
 
 ![Python](https://img.shields.io/badge/DIO-Suzano_Python_Developer-302b63?style=flat-square&logo=python&logoColor=white)
 ![FullStack](https://img.shields.io/badge/DIO-Akad_FullStack_Developer-302b63?style=flat-square&logo=react&logoColor=white)
@@ -257,7 +257,7 @@ class Developer {
 
 <div align="center">
 
-### &nbsp; Vamos construir algo incrivel juntos?
+### &nbsp; Vamos construir algo incrível juntos?
 
 <br>
 
@@ -268,7 +268,7 @@ class Developer {
 <br>
 
 ```
-"A programacao e infinita!" — Paulo Gabriel Camara
+"A programação é infinita!" — Paulo Gabriel Câmara
 ```
 
 </div>
