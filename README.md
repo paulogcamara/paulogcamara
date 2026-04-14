@@ -57,8 +57,6 @@ class Developer {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulogcamara&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff6b2b&icon_color=ff6b2b&text_color=ebe7e0&ring_color=ff6b2b&include_all_commits=true&locale=pt-br&rank_icon=github" height="170" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=paulogcamara&hide_border=true&background=00000000&ring=ff6b2b&fire=ff8c42&currStreakNum=ebe7e0&sideNums=ebe7e0&currStreakLabel=ff6b2b&sideLabels=ff6b2b&dates=9e998f&locale=pt_BR" height="170" />
 
 </div>
 
