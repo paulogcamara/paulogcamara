@@ -1,27 +1,24 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              GITHUB PROFILE README — paulogcamara              ║ -->
-<!-- ║       Tema: Cyberpunk Purple | Design: Dark & Immersive       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Paulo%20Gabriel%20C%C3%A2mara&fontSize=42&fontColor=e2e8f0&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Industrial%20Automation%20%E2%80%A2%20Creative%20Coder&descSize=16&descColor=a78bfa&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07060b,60:1a0f05,100:ff6b2b&height=200&section=header&text=Paulo%20Gabriel%20C%C3%A2mara&fontSize=40&fontColor=ebe7e0&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Automa%C3%A7%C3%A3o%20Industrial%20%C2%B7%20Creative%20Coder&descSize=14&descColor=ff8c42&descAlignY=55" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&height=70&lines=Full+Stack+Developer+%7C+Creative+Coder;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+.NET;Da+automa%C3%A7%C3%A3o+industrial+ao+c%C3%B3digo+criativo;A+programa%C3%A7%C3%A3o+%C3%A9+infinita!+%E2%88%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF6B2B&center=true&vCenter=true&repeat=true&width=460&height=55&lines=Full+Stack+Developer;Automa%C3%A7%C3%A3o+Industrial+%C2%B7+Creative+Coder;A+programa%C3%A7%C3%A3o+%C3%A9+infinita!)](https://git.io/typing-svg)
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=paulogcamara&color=blueviolet&style=for-the-badge&label=VISITANTES)](https://github.com/paulogcamara)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-c%C3%A2mara-406659339/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://paulocamara.pages.dev/)
+<a href="https://www.linkedin.com/in/paulo-gabriel-c%C3%A2mara-406659339/"><img src="https://cdn.simpleicons.org/linkedin/ff6b2b" width="22" height="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://paulocamara.pages.dev/"><img src="https://cdn.simpleicons.org/cloudflarepages/ff6b2b" width="22" height="22" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/paulogcamara"><img src="https://cdn.simpleicons.org/github/ff6b2b" width="22" height="22" alt="GitHub" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br>
 
-## &nbsp; Quem sou eu?
+---
+
+<div align="center">
+<sub><code>01</code>&nbsp;&nbsp;—&nbsp;&nbsp;SOBRE MIM</sub>
+</div>
+
+<br>
 
 ```javascript
 class Developer {
@@ -29,24 +26,23 @@ class Developer {
         this.name     = "Paulo Gabriel Câmara";
         this.role     = "Full Stack Developer";
         this.company  = "Quality Engineering";
-        this.location = "Montes Claros, MG";
-        this.stack    = ["React", "TypeScript", "Node.js", ".NET", "Python"];
+        this.location = "Montes Claros, MG 🇧🇷";
     }
 
     get background() {
         return [
-            "Responsável Técnico de TI         -> Infraestrutura & LGPD",
-            "Analista de Desenvolvimento Pleno  -> Full Stack & Liderança",
-            "Data Analytics (Novo Nordisk)      -> Power BI & Python",
-            "MES / PAS-X Developer             -> Automação Industrial",
-            "Full Stack Developer              -> Soluções Escaláveis"
+            "Responsável Técnico de TI         → Infraestrutura & LGPD",
+            "Analista de Desenvolvimento        → Full Stack & Liderança",
+            "Data Analytics (Novo Nordisk)      → Power BI & Python",
+            "MES / PAS-X Developer             → Automação Industrial",
+            "Full Stack Developer              → Soluções Escaláveis"
         ];
     }
 
     get creativeCode() {
         return {
             tools: ["Three.js", "WebGL", "GSAP", "Web Audio API", "GLSL"],
-            highlight: "violao-3d — guitarra 3D procedural com síntese de áudio"
+            highlight: "violão 3D procedural com síntese de áudio"
         };
     }
 
@@ -54,147 +50,34 @@ class Developer {
 }
 ```
 
-> Desenvolvedor que transita entre a **automação industrial** e o **código criativo**.
-> Na Quality Engineering, projeto soluções para digitalização de processos industriais e corporativos.
-> Acredito que as melhores soluções nascem quando **rigor técnico** encontra **design** —
-> e quando nunca se para de aprender.
+> Transito entre a **automação industrial** e o **código criativo**. Na Quality Engineering, projeto soluções para digitalização de processos industriais e corporativos. As melhores soluções nascem quando **rigor técnico** encontra **design**.
 
 <br>
 
 ---
 
-## &nbsp; Tech Stack
-
 <div align="center">
-
-### Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
-
-### Backend
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,dotnet,python,php&theme=dark)](https://skillicons.dev)
-
-### Cloud, DevOps & Database
-
-[![Cloud](https://skillicons.dev/icons?i=aws,docker,linux,git,postgres,mysql&theme=dark)](https://skillicons.dev)
-
-### Ferramentas & Creative Coding
-
-[![Tools](https://skillicons.dev/icons?i=vscode,figma,postman,github,vite,threejs&theme=dark)](https://skillicons.dev)
-
+<sub><code>02</code>&nbsp;&nbsp;—&nbsp;&nbsp;TECH STACK</sub>
 </div>
 
 <br>
 
----
-
-## &nbsp; GitHub Analytics
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=paulogcamara&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&locale=pt-br&rank_icon=github" width="100%" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com/?user=paulogcamara&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&locale=pt_BR" width="100%" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogcamara&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="42%" />
-
-</div>
-
-<br>
-
----
-
-## &nbsp; Troféus
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=paulogcamara&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
----
-
-## &nbsp; Projeto em Destaque
-
-<div align="center">
-
-### &nbsp; [Violão 3D](https://github.com/paulogcamara/violao-3d) — Experiência Web Imersiva
-
-<a href="https://paulogcamara.github.io/violao-3d/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paulogcamara&repo=violao-3d&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="55%" />
-</a>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C# / .NET" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
 
 <br><br>
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Acessar_Agora-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paulogcamara.github.io/violao-3d/)&nbsp;
-[![Source Code](https://img.shields.io/badge/SOURCE-C%C3%B3digo_Fonte-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulogcamara/violao-3d)
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="55%">
-
-**Destaques técnicos:**
-
-- Modelo 3D **100% procedural** — zero modelos externos importados
-- Texturas de madeira procedurais via Canvas API (Spruce, Rosewood, Ebony, Cedar)
-- Materiais fisicamente corretos com `MeshPhysicalMaterial` e clearcoat
-- Síntese de áudio **Karplus-Strong** via Web Audio API — zero arquivos de áudio
-- Vibração de cordas por vertex displacement em tempo real
-- Câmera cinematográfica com **26 keyframes** sincronizados ao scroll
-- **12 presets** de iluminação dinâmica
-- Fretboard interativo: **78 posições clicáveis** (6 cordas x 13 trastes)
-- 8 acordes pré-definidos tocáveis
-- Target **60fps** | Bundle ~460kb gzipped
-
-</td>
-<td width="45%" align="center">
-
-**Stack do projeto:**
-
-[![Stack](https://skillicons.dev/icons?i=react,ts,threejs&theme=dark&perline=3)](https://skillicons.dev)
-
-<br>
-
-`React 19` &nbsp; `Three.js` &nbsp; `R3F`
-
-`GSAP` &nbsp; `ScrollTrigger` &nbsp; `Lenis`
-
-`Zustand` &nbsp; `GLSL Shaders`
-
-`Web Audio API` &nbsp; `Tailwind 4`
-
-<br>
-
-> *"Tudo é gerado por código —*
-> *da geometria à música."*
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## &nbsp; Gráfico de Atividade
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulogcamara&bg_color=0d1117&color=a78bfa&line=a78bfa&point=c9d1d9&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es)](https://github.com/ashutosh00710/github-readme-activity-graph)
+`Node.js` &nbsp; `PHP` &nbsp; `PostgreSQL` &nbsp; `Tailwind` &nbsp; `Three.js` &nbsp; `GSAP` &nbsp; `Linux` &nbsp; `Git` &nbsp; `CI/CD` &nbsp; `Vite`
 
 </div>
 
@@ -202,9 +85,71 @@ class Developer {
 
 ---
 
-## &nbsp; Snake Animation
+<div align="center">
+<sub><code>03</code>&nbsp;&nbsp;—&nbsp;&nbsp;GITHUB ANALYTICS</sub>
+</div>
+
+<br>
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paulogcamara&show_icons=true&hide_border=true&bg_color=07060b&title_color=ff6b2b&icon_color=ff6b2b&text_color=ebe7e0&ring_color=ff6b2b&include_all_commits=true&locale=pt-br&rank_icon=github" height="170" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=paulogcamara&hide_border=true&background=07060b&ring=ff6b2b&fire=ff8c42&currStreakNum=ebe7e0&sideNums=ebe7e0&currStreakLabel=ff6b2b&sideLabels=ff6b2b&dates=9e998f&locale=pt_BR" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulogcamara&layout=compact&hide_border=true&bg_color=07060b&title_color=ff6b2b&text_color=ebe7e0&langs_count=8" height="150" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<sub><code>04</code>&nbsp;&nbsp;—&nbsp;&nbsp;PROJETO EM DESTAQUE</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+### [Violão 3D](https://paulogcamara.github.io/violao-3d/)
+
+*Experiência web imersiva que explora a anatomia do violão clássico*
+
+<br>
+
+| Modelo 3D | Áudio | Câmera | Fretboard | Performance |
+|:-:|:-:|:-:|:-:|:-:|
+| 100% procedural | Síntese Karplus-Strong | 26 keyframes | 78 posições clicáveis | 60fps |
+
+<br>
+
+`React 19` &nbsp; `Three.js` &nbsp; `TypeScript` &nbsp; `R3F` &nbsp; `GSAP` &nbsp; `Web Audio API` &nbsp; `GLSL` &nbsp; `Zustand` &nbsp; `Tailwind 4`
+
+<br>
+
+[Demo ao vivo](https://paulogcamara.github.io/violao-3d/) &nbsp; · &nbsp; [Código fonte](https://github.com/paulogcamara/violao-3d)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<sub><code>05</code>&nbsp;&nbsp;—&nbsp;&nbsp;ATIVIDADE</sub>
+</div>
+
+<br>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulogcamara&bg_color=07060b&color=ff6b2b&line=ff6b2b&point=ebe7e0&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulogcamara/paulogcamara/output/github-snake-dark.svg" />
@@ -219,35 +164,26 @@ class Developer {
 ---
 
 <details>
-<summary><b>&nbsp; Jornada Profissional</b></summary>
+<summary><sub><code>06</code></sub>&nbsp;&nbsp;Jornada Profissional</summary>
 <br>
 
-| Período | Cargo | Empresa | Foco |
-|:-------:|-------|---------|------|
-| **2025 — atual** | Analista de Desenvolvimento Full Stack | **Quality Engineering** | React, TypeScript, Node.js, AWS, Automação Industrial |
-| **2024 — 2025** | Analista MES Jr. / PAS-X Developer | **Novo Nordisk** | Manufacturing Execution Systems, PAS-X, Conformidade |
-| **2023 — 2024** | Estagiário — Data Analytics | **Novo Nordisk** | Power BI, Python, Power Automate, Dashboards |
-| **2022 — 2023** | Analista de Desenvolvimento Pleno | **VGX Contact Center** | Full Stack, Liderança Técnica, Banco de Dados |
-| **2022** | Responsável Técnico de TI | **Cartório 1º Ofício** | Python, Infraestrutura, LGPD |
+| Período | Cargo | Empresa |
+|:-------:|-------|---------|
+| **2025 — atual** | Analista de Desenvolvimento Full Stack | Quality Engineering |
+| **2024 — 2025** | Analista MES Jr. / PAS-X Developer | Novo Nordisk |
+| **2023 — 2024** | Estagiário — Data Analytics | Novo Nordisk |
+| **2022 — 2023** | Analista de Desenvolvimento Pleno | VGX Contact Center |
+| **2022** | Responsável Técnico de TI | Cartório 1º Ofício |
 
 </details>
 
 <details>
-<summary><b>&nbsp; Formação & Certificações</b></summary>
+<summary><sub><code>07</code></sub>&nbsp;&nbsp;Formação & Certificações</summary>
 <br>
 
-**Graduação:**
+**Graduação:** Bacharelado em TI — Estácio (2023–2026) · CST em TI — Ampli (2023–2025)
 
-![Estacio](https://img.shields.io/badge/Est%C3%A1cio-Bacharelado_em_TI_(2023--2026)-a78bfa?style=flat-square&logo=bookstack&logoColor=white)
-![Ampli](https://img.shields.io/badge/Ampli-CST_em_TI_(2023--2025)-a78bfa?style=flat-square&logo=bookstack&logoColor=white)
-
-**Certificações:**
-
-![Python](https://img.shields.io/badge/DIO-Suzano_Python_Developer-302b63?style=flat-square&logo=python&logoColor=white)
-![FullStack](https://img.shields.io/badge/DIO-Akad_FullStack_Developer-302b63?style=flat-square&logo=react&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-An%C3%A1lise_de_Dados-302b63?style=flat-square&logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise_de_Dados-302b63?style=flat-square&logo=postgresql&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Cloud_AWS-302b63?style=flat-square&logo=amazonaws&logoColor=white)
+**Certificações:** Python Developer (DIO/Suzano) · FullStack Developer (DIO/Akad) · Power BI · SQL · DevOps & Cloud AWS
 
 </details>
 
@@ -257,20 +193,14 @@ class Developer {
 
 <div align="center">
 
-### &nbsp; Vamos construir algo incrível juntos?
+*Vamos construir algo incrível juntos?*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-Paulo%20Gabriel%20C%C3%A2mara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-c%C3%A2mara-406659339/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/-paulocamara.pages.dev-000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://paulocamara.pages.dev/)&nbsp;
-[![GitHub](https://img.shields.io/badge/-paulogcamara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulogcamara)
-
-<br>
-
-```
-"A programação é infinita!" — Paulo Gabriel Câmara
-```
+<a href="https://www.linkedin.com/in/paulo-gabriel-c%C3%A2mara-406659339/"><img src="https://cdn.simpleicons.org/linkedin/ff6b2b" width="20" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://paulocamara.pages.dev/"><img src="https://cdn.simpleicons.org/cloudflarepages/ff6b2b" width="20" height="20" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/paulogcamara"><img src="https://cdn.simpleicons.org/github/ff6b2b" width="20" height="20" alt="GitHub" /></a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07060b,60:1a0f05,100:ff6b2b&height=100&section=footer" />
