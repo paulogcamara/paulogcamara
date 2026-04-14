@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 320" width="900" height="320">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .c {
+          background: linear-gradient(180deg, #07060b 0%, #0c0a08 100%);
+          width: 900px;
+          height: 320px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        }
+        .c::before {
+          content: '';
+          position: absolute;
+          inset: 0;
+          background:
+            radial-gradient(circle at 15% 40%, rgba(255,107,43,0.04) 0%, transparent 50%),
+            radial-gradient(circle at 85% 60%, rgba(255,107,43,0.03) 0%, transparent 50%);
+        }
+        .lb {
+          font-family: 'Courier New', 'Lucida Console', monospace;
+          font-size: 10px;
+          color: #ff6b2b;
+          letter-spacing: 8px;
+          text-transform: uppercase;
+          margin-bottom: 22px;
+          opacity: 0;
+          animation: fi 1s ease 0.2s forwards;
+        }
+        .n {
+          font-family: Georgia, 'Times New Roman', 'Palatino Linotype', serif;
+          font-size: 52px;
+          font-style: italic;
+          font-weight: 400;
+          color: #ebe7e0;
+          letter-spacing: 0.5px;
+          opacity: 0;
+          animation: fu 1.2s ease 0.5s forwards;
+        }
+        .nd { color: #ff6b2b; font-style: normal; }
+        .dv {
+          height: 1px;
+          margin: 24px 0 20px;
+          background: linear-gradient(90deg, transparent, #ff6b2b, transparent);
+          width: 0;
+          animation: el 1.5s ease 1.1s forwards;
+        }
+        .sub {
+          font-family: 'Courier New', 'Lucida Console', monospace;
+          font-size: 11px;
+          color: #5e5a53;
+          letter-spacing: 4px;
+          text-transform: uppercase;
+          opacity: 0;
+          animation: fi 1s ease 1.6s forwards;
+        }
+        .mt {
+          font-family: Georgia, 'Times New Roman', serif;
+          font-size: 13px;
+          color: #9e998f;
+          font-style: italic;
+          margin-top: 18px;
+          opacity: 0;
+          animation: fi 1s ease 2s forwards;
+        }
+        .p {
+          position: absolute;
+          width: 2px;
+          height: 2px;
+          border-radius: 50%;
+          background: #ff6b2b;
+        }
+        .p1 { top: 12%; left: 7%; animation: fl 7s infinite ease-in-out; }
+        .p2 { top: 22%; right: 10%; animation: fl 7s infinite ease-in-out 1.2s; }
+        .p3 { bottom: 18%; left: 12%; animation: fl 7s infinite ease-in-out 2.4s; }
+        .p4 { top: 45%; right: 6%; animation: fl 7s infinite ease-in-out 3.6s; }
+        .p5 { bottom: 28%; right: 18%; animation: fl 7s infinite ease-in-out 4.8s; }
+        .p6 { top: 65%; left: 4%; animation: fl 7s infinite ease-in-out 0.8s; }
+        .p7 { top: 8%; left: 45%; animation: fl 7s infinite ease-in-out 2s; }
+        .p8 { bottom: 10%; right: 35%; animation: fl 7s infinite ease-in-out 3.2s; }
+
+        .ln {
+          position: absolute;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, rgba(255,107,43,0.06), transparent);
+        }
+        .ln1 { top: 25%; left: 0; width: 100%; }
+        .ln2 { top: 75%; left: 0; width: 100%; }
+
+        @keyframes fi { from { opacity: 0; } to { opacity: 1; } }
+        @keyframes fu { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes el { from { width: 0; } to { width: 80px; } }
+        @keyframes fl { 0%, 100% { opacity: 0.08; transform: translateY(0); } 50% { opacity: 0.35; transform: translateY(-8px); } }
+
+        @media (prefers-color-scheme: light) {
+          .c { background: linear-gradient(180deg, #faf9f7 0%, #f5f3f0 100%); }
+          .c::before { background: radial-gradient(circle at 15% 40%, rgba(255,107,43,0.06) 0%, transparent 50%), radial-gradient(circle at 85% 60%, rgba(255,107,43,0.04) 0%, transparent 50%); }
+          .n { color: #1a1a1a; }
+          .sub { color: #9e998f; }
+          .mt { color: #5e5a53; }
+          .ln { background: linear-gradient(90deg, transparent, rgba(255,107,43,0.08), transparent); }
+        }
+        @media (prefers-reduced-motion: reduce) {
+          * { animation-duration: 0.01s !important; animation-delay: 0s !important; }
+          .dv { width: 80px; }
+        }
+      </style>
+      <div class="c">
+        <div class="p p1"></div>
+        <div class="p p2"></div>
+        <div class="p p3"></div>
+        <div class="p p4"></div>
+        <div class="p p5"></div>
+        <div class="p p6"></div>
+        <div class="p p7"></div>
+        <div class="p p8"></div>
+        <div class="ln ln1"></div>
+        <div class="ln ln2"></div>
+        <p class="lb">Full Stack Developer</p>
+        <p class="n">Paulo C&#226;mara<span class="nd">.</span></p>
+        <div class="dv"></div>
+        <p class="sub">Automa&#231;&#227;o Industrial &#183; Creative Coder</p>
+        <p class="mt">&#8220;A programa&#231;&#227;o &#233; infinita&#8221;</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
