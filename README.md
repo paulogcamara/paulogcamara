@@ -54,14 +54,6 @@ class Developer {
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=paulogcamara&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff6b2b&icon_color=ff6b2b&text_color=ebe7e0&ring_color=ff6b2b&include_all_commits=true&locale=pt-br&rank_icon=github" height="170" />
-
-</div>
-
----
-
 ### [Violão 3D](https://paulogcamara.github.io/violao-3d/) — Experiência Web Imersiva
 
 Modelo 3D **100% procedural**, síntese de áudio **Karplus-Strong**, câmera cinematográfica com **26 keyframes**, fretboard interativo com **78 posições**, iluminação dinâmica com **12 presets** — tudo gerado por código, da geometria à música. Target **60fps**, bundle ~460kb gzipped.
